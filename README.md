@@ -6,3 +6,6 @@ Geekerwan
 Renegede Project
 
 Without their help, I am not able to complete this project.
+
+
+Project display video avaliable: https://www.bilibili.com/video/BV15t4y1j7wW/?spm_id_from=333.999.0.0
