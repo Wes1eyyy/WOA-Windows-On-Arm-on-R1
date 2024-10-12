@@ -1,4 +1,4 @@
-####Topic background####
+#### Topic background####
  This project is aimed to design and make a product that could run Windows system on
  your smartphone（SOC1：snapdragon 845） and help meet some light mobile office
  needs for people, meanwhile my artefact could also realize the local switch of
