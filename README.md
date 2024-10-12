@@ -1,8 +1,10 @@
+For whom want to get detail information,please download Project Report.pdf
+
 This project is only for study preference.
 Reproduction requires authorization。
 
 Special Thanks:
-Geekerwan
+Geekerwan,
 Renegede Project
 
 Without their help, I am not able to complete this project.
